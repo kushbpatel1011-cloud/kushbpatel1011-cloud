@@ -1,7 +1,7 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:9D00FF&height=200&section=header&text=Kush%20Patel&fontSize=60&fontColor=ffffff&animation=fadeIn)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Kush+Patel;B.Tech+CSE+(AI+%26+ML)+Student;ML%2FDL+Enthusiast+%7C+400%2B+LeetCode+Solved)](https://git.io/typing-svg)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kushbpatel1011-cloud&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kushbpatel1011-cloud&layout=compact&theme=radical)
+![Header](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=150&text=KUSH%20PATEL&fontColor=ffffff&fontSize=50&fontAlign=50&fontAlignY=50)
+![Header](https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12&height=220&section=header&text=Kush%20Patel&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=AI%20%2F%20ML%20Engineer%20%7C%20Full-Stack%20Builder&descAlignY=60&descSize=18)
+
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-Github/main/robot2.gif" width="100%">
 ### Hi, I'm Kush Patel 👋
 
 B.Tech CSE (AI & ML), Nirma University, Ahmedabad — CGPA 9.00/10
@@ -29,4 +29,5 @@ B.Tech CSE (AI & ML), Nirma University, Ahmedabad — CGPA 9.00/10
 ### 🏆 LeetCode
 ![LeetCode Stats](https://leetcode-stats-two.vercel.app/api?username=KushKavya)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:9D00FF,100:00F5FF&height=100&section=footer)
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer)
