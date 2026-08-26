@@ -16,7 +16,7 @@ B.Tech CSE (AI & ML), Nirma University, Ahmedabad — CGPA 9.00/10
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-**Focus areas:** Machine Learning • Deep Learning • Data Structures & Algorithms • Generative AI • Cloud Computing 
+**Focus areas:** Machine Learning • Deep Learning • Data Structures & Algorithms • Generative AI 
 
 ### 📊 Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kushbpatel1011-cloud&show_icons=true&theme=default)
