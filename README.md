@@ -1,7 +1,5 @@
-![Header](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=150&text=KUSH%20PATEL&fontColor=ffffff&fontSize=50&fontAlign=50&fontAlignY=50)
-![Header](https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12&height=220&section=header&text=Kush%20Patel&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=AI%20%2F%20ML%20Engineer%20%7C%20Full-Stack%20Builder&descAlignY=60&descSize=18)
-
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-Github/main/robot2.gif" width="100%">
+![Header](https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12&height=220&section=header&text=Kush%20Patel&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%20%2F%20ML%20%2F%20Deep%20Learning%20Enthusiast&descAlignY=55&descSize=20)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&lines=Exploring+Machine+Learning+%26+Deep+Learning;Neural+Networks+%7C+CNNs+%7C+Model+Evaluation;B.Tech+CSE+(AI+%26+ML)+%40+Nirma+University;400%2B+LeetCode+Problems+Solved)](https://git.io/typing-svg)
 ### Hi, I'm Kush Patel 👋
 
 B.Tech CSE (AI & ML), Nirma University, Ahmedabad — CGPA 9.00/10
