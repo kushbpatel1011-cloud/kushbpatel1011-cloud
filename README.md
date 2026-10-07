@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=AI+%2F+ML+%2F+Deep+Learning+Enthusiast;Neural+Networks+%26+Backpropagation;Convolutional+Neural+Networks+(CNNs);Recurrent+Neural+Networks+%26+LSTMs;Model+Evaluation+%26+Hyperparameter+Tuning;Generative+AI+%26+Large+Language+Models;B.Tech+CSE+(AI+%26+ML)+%40+Nirma+University;400%2B+LeetCode+Problems+Solved)](https://git.io/typing-svg)
 ### Hi, I'm Kush Patel 👋
 
-B.Tech CSE (AI & ML), Nirma University, Ahmedabad — CGPA 9.00/10
+B.Tech CSE (AI & ML), Nirma University, Ahmedabad — CGPA 8.92/10
 
 - 🔭 Currently exploring: Machine Learning & Deep Learning (CNNs, model evaluation, neural nets)
 - 🎓 Completed: AICTE–IBM SkillsBuild Gen AI & Cloud Computing Internship (built **WriteFlow**, an AI-assisted writing tool)
@@ -19,9 +19,6 @@ B.Tech CSE (AI & ML), Nirma University, Ahmedabad — CGPA 9.00/10
 
 **Focus areas:** Machine Learning • Deep Learning • Data Structures & Algorithms • Generative AI 
 
-### 📊 Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kushbpatel1011-cloud&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kushbpatel1011-cloud&layout=compact)
 
 ### 🏆 LeetCode
 ![LeetCode Stats](https://leetcode-stats-two.vercel.app/api?username=KushKavya)
