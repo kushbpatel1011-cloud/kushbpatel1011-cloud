@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=AI+%2F+ML+%2F+Deep+Learning+Enthusiast;Neural+Networks+%26+Backpropagation;Convolutional+Neural+Networks+(CNNs);Recurrent+Neural+Networks+%26+LSTMs;Model+Evaluation+%26+Hyperparameter+Tuning;Generative+AI+%26+Large+Language+Models;B.Tech+CSE+(AI+%26+ML)+%40+Nirma+University;400%2B+LeetCode+Problems+Solved)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=AI+%2F+ML+%2F+Deep+Learning+Enthusiast;Neural+Networks+%26+Backpropagation;Convolutional+Neural+Networks+(CNNs);Recurrent+Neural+Networks+%26+LSTMs;Model+Evaluation+%26+Hyperparameter+Tuning;Generative+AI+%26+Large+Language+Models;B.Tech+CSE+(AI+%26+ML)+%40+Nirma+University;480%2B+LeetCode+Problems+Solved)](https://git.io/typing-svg)
 ### Hi, I'm Kush Patel 👋
 
 B.Tech CSE (AI & ML), Nirma University, Ahmedabad — CGPA 8.92/10
@@ -6,7 +6,7 @@ B.Tech CSE (AI & ML), Nirma University, Ahmedabad — CGPA 8.92/10
 - 🔭 Currently exploring: Machine Learning & Deep Learning (CNNs, model evaluation, neural nets)
 - 🎓 Completed: AICTE–IBM SkillsBuild Gen AI & Cloud Computing Internship (built **WriteFlow**, an AI-assisted writing tool)
 - 📜 Certified: Deloitte Technology Job Simulation, Tata iQ GenAI Data Analytics Job Simulation (Forage)
-- 💻 450+ LeetCode problems solved (max contest rating: 1537) — strong in DP, graphs, trees, greedy, backtracking
+- 💻 480+ LeetCode problems solved (max contest rating: 1537) — strong in DP, graphs, trees, greedy, backtracking
 - 📫 Reach me: [LinkedIn](www.linkedin.com/in/kush-patel-091143321) • kushbpatel1011@gmail.com
 
 ### 🛠 Tech Stack
